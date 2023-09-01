@@ -1,1 +1,1 @@
-Hi this is file1.txt
+i am conflicting line from merge-conflict-branch
